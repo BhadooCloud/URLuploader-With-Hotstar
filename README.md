@@ -35,6 +35,7 @@ sudo apt-get update && sudo apt-get upgrade && sudo apt update && sudo apt upgra
 apt install python3-pip
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
+cp sample_config.py config.py
 nano config.py
 python3 bot.py
 ```
