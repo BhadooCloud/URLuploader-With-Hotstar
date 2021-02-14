@@ -30,8 +30,12 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 ```sh
 git clone https://github.com/prgofficial/URLuploader-With-Hotstar
 cd URLuploader-With-Hotstar
+sudo su
+sudo apt-get update && sudo apt-get upgrade && sudo apt update && sudo apt upgrade
+apt install python3-pip
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
+nano config.py
 python3 bot.py
 ```
 
