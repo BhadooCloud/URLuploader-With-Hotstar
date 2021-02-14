@@ -42,3 +42,8 @@ python3 bot.py
 * /upgrade           - Nothing much here
 * /deletethumbnail   - Clear saved thumbnail
 * /showthumb         - Show saved thumbnail
+
+
+
+
+from https://github.com/prgofficial/URLuploader-With-Hotstar
